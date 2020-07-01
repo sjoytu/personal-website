@@ -96,6 +96,23 @@ h4{
     border-image: linear-gradient(180deg, green, orange);
     border-image-slice: 1;
 }
+#message{
+    color: seashell;
+    text-align: center;
+}
+#email{
+    font-size: 30px;
+}
+.contact{
+
+    background-color: rgb(231, 54, 23);
+    width: 400px;
+    margin: 1% 35%;
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
 footer p{
     text-align: center;
 }
